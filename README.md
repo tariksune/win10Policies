@@ -1,5 +1,5 @@
 ## win10Policies
-________________
+
 [TR]Çözüm - Bazı ayarlar kuruluşunuz tarafından yönetilir. /Bat dosyasını yönetici olarak çalıştırın. Sorununuz çözülecektir.
 
 ![](https://raw.githubusercontent.com/tariksune/win10Policies/master/tr-yonetilir.png)
